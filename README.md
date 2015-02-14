@@ -1,5 +1,5 @@
 # World-Languages
-This a list of all know spoken languages on our planet.
+This a list of all known spoken languages on our planet. That means Earth, if you are human.
 
 # License
 Public Domain
