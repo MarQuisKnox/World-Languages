@@ -1,3 +1,4 @@
+Afrikaans
 Akan
 Albanian
 Amharic
@@ -6,26 +7,28 @@ Armenian
 Assamese
 Awadhi
 Azerbaijani
-Bangla
 Balochi
+Bangla
 Bantu
+Basque
 Belarusian
-Bengali
-Binisaya
-Bhojpuri
-Burmese
 Belorussian
+Bengali
+Bhojpuri
+Binisaya
+Bosnian
 Bulgarian
+Burmese
 Cantonese
 Castilian
 Catalán
 Cebuano
 Chewa
 Chhattisgarhi
+Chichewa
 Chinese (Simplified)
 Chinese (Traditional)
 Chittagonian
-Czech
 Creole
 Croation
 Czech
@@ -35,16 +38,20 @@ Deccan
 Dhundhari
 Dutch
 English
+Esperanto
 Estonian
 Farsi
+Filipino
 Finnish
 French
 Fula
+Galician
 Garifuna
 Gan
+Georgian
 German
 Greek
-Gujarati
+Gujariti
 Haitian Creole
 Hakka
 Haryanvi
@@ -53,7 +60,9 @@ Hiligaynon
 Hindi
 Hmong
 Hungarian
+Icelandic
 Igbo
+Irish
 Ilokano
 Indonesian
 Italian
@@ -68,8 +77,17 @@ Kirundi
 Konkani
 Korean
 Kurdish
+Lao
+Latin
+Latvian
+Lithuanian
+Macedonian
 Madurese
 Madhura
+Maltese
+Maori
+Mongolian
+Myanmar (Burmese)
 Magahi
 Maithili
 Malagasy
@@ -83,6 +101,7 @@ Min Dong
 Min Nan
 Mossi
 Nepali
+Norwegian
 Oriya
 Oromo
 Pashto
@@ -94,10 +113,14 @@ Quechua
 Romanian
 Russian
 Saraiki
+Serbian
 Serbo-Croatian
+Sesotho
 Shona
 Sindhi
 Sinhalese
+Slovak
+Slovenian
 Somali
 Spanish
 Sundanese
@@ -105,6 +128,7 @@ Swahili
 Swedish
 Sylheti
 Tagalog
+Tajik
 Tamil
 Telugu
 Thai
@@ -114,9 +138,11 @@ Urdu
 Uyghur
 Uzbek
 Vietnamese
+Welsh
 Wu
 Xhosa
 Xiang
+Yiddish
 Yoruba
 Zhuang
 Zulu
