@@ -1,5 +1,9 @@
 # World-Languages
-This a list of all known spoken languages on our planet. That means Earth, if you are human.
+This a list of the most widely spoken languages on our planet. That means Earth, if you are human. 
+<br>
+This is not a complete list. 
+<br>
+See:  http://www-01.sil.org/iso639-3/iso-639-3_Name_Index.tab
 
 # License
 Public Domain
